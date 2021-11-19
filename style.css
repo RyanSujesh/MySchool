@@ -58,3 +58,28 @@ input
     top: 0;
     z-index: 99999;
 }
+
+.life_mainDiv
+{
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  border: 1px solid #c7c7c7;
+}
+
+.life_mainDiv img
+{
+  width: 100%;
+  height:300px;
+} 
+
+.life_mainDiv hr
+{
+    width: 100%; 
+}
+
+.life_mainDiv h5 , .life_mainDiv p
+{
+margin-left: 20px;
+}
+
